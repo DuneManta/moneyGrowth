@@ -12,7 +12,7 @@ This project is constructed using VBS language, and is best run within *Microsof
 The interface is fairly simple, with a few labeled input fields marking locations for the initial input amounts and buttons to fire the individual calculations.
 
 ## Example of running app
-[Freshly started instance of the app](running.PNG)
+![Freshly started instance of the app](running.PNG)
 
 ## Code sample from the app
         For i = 1 To shoCycles
