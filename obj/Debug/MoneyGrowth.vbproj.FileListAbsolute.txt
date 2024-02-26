@@ -1,0 +1,17 @@
+D:\DATC\SDEV 1032\Module6\MoneyGrowth\bin\Debug\MoneyGrowth.exe.config
+D:\DATC\SDEV 1032\Module6\MoneyGrowth\bin\Debug\MoneyGrowth.exe
+D:\DATC\SDEV 1032\Module6\MoneyGrowth\bin\Debug\MoneyGrowth.pdb
+D:\DATC\SDEV 1032\Module6\MoneyGrowth\bin\Debug\MoneyGrowth.xml
+D:\DATC\SDEV 1032\Module6\MoneyGrowth\obj\Debug\MoneyGrowth.vbproj.AssemblyReference.cache
+D:\DATC\SDEV 1032\Module6\MoneyGrowth\obj\Debug\MoneyGrowth.vbproj.SuggestedBindingRedirects.cache
+D:\DATC\SDEV 1032\Module6\MoneyGrowth\obj\Debug\MoneyGrowth.Form1.resources
+D:\DATC\SDEV 1032\Module6\MoneyGrowth\obj\Debug\MoneyGrowth.Resources.resources
+D:\DATC\SDEV 1032\Module6\MoneyGrowth\obj\Debug\MoneyGrowth.vbproj.GenerateResource.cache
+D:\DATC\SDEV 1032\Module6\MoneyGrowth\obj\Debug\MoneyGrowth.vbproj.CoreCompileInputs.cache
+D:\DATC\SDEV 1032\Module6\MoneyGrowth\obj\Debug\MoneyGrowth.exe
+D:\DATC\SDEV 1032\Module6\MoneyGrowth\obj\Debug\MoneyGrowth.xml
+D:\DATC\SDEV 1032\Module6\MoneyGrowth\obj\Debug\MoneyGrowth.pdb
+D:\DATC\IT\SDEV 1032\Module6\MoneyGrowth\bin\Debug\MoneyGrowth.exe.config
+D:\DATC\IT\SDEV 1032\Module6\MoneyGrowth\obj\Debug\MoneyGrowth.exe
+D:\DATC\IT\SDEV 1032\Module6\MoneyGrowth\obj\Debug\MoneyGrowth.xml
+D:\DATC\IT\SDEV 1032\Module6\MoneyGrowth\obj\Debug\MoneyGrowth.pdb
